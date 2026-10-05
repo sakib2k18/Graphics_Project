@@ -1,0 +1,16 @@
+﻿  main.cpp
+D:\4-2 Lab\Graphics\Projects\MyProject\shader.h(43,14): warning C4101: 'infoLog': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+D:\4-2 Lab\Graphics\Projects\MyProject\shader.h(42,13): warning C4101: 'success': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+D:\4-2 Lab\Graphics\Projects\MyProject\shader.h(35,40): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+D:\4-2 Lab\Graphics\Projects\MyProject\main.cpp(344,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\4-2 Lab\Graphics\Projects\MyProject\main.cpp(410,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\4-2 Lab\Graphics\Projects\MyProject\main.cpp(422,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\4-2 Lab\Graphics\Projects\MyProject\main.cpp(424,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\4-2 Lab\Graphics\Projects\MyProject\main.cpp(672,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  MyProject.vcxproj -> D:\4-2 Lab\Graphics\Projects\MyProject\x64\Debug\MyProject.exe
